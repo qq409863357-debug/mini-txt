@@ -1,3 +1,5 @@
+![界面预览](https://github.com/user-attachments/assets/c5a55ce3-d2ab-4339-9db0-03baef787c7a)
+
 # 🔏 极简文本加密助手 (MinimalTextEncryptor)
 
 一个基于 Python Tkinter 和 AES-256 加密标准的 Windows 桌面工具。专为追求极致隐私和便捷办公的用户打造。
